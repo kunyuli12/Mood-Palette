@@ -3,8 +3,7 @@
 > **Curated Colors for Your Next Masterpiece.**
 > Vibe Coding 期末專題作品
 
-![Project Banner]([https://via.placeholder.com/1200x600?text=Hue.AI+Demo+Banner](https://drive.google.com/file/d/1MbOlJXWpcF0uzFQ43G4_hDZgVdEngBmI/view?usp=sharing))
-*(建議：請在此處替換為你的網頁實際截圖或 Demo 封面，讓專案看起來更完整)*
+(https://drive.google.com/file/d/1MbOlJXWpcF0uzFQ43G4_hDZgVdEngBmI/view?usp=sharing)
 
 ## 📖 專案簡介 (About)
 
