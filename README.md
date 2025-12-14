@@ -3,16 +3,16 @@
 > **Curated Colors for Your Next Masterpiece.**
 > Vibe Coding 期末專題作品
 
-![Project Banner](https://via.placeholder.com/1200x600?text=Hue.AI+Demo+Banner)
+![Project Banner]([https://via.placeholder.com/1200x600?text=Hue.AI+Demo+Banner](https://drive.google.com/file/d/1MbOlJXWpcF0uzFQ43G4_hDZgVdEngBmI/view?usp=sharing))
 *(建議：請在此處替換為你的網頁實際截圖或 Demo 封面，讓專案看起來更完整)*
 
 ## 📖 專案簡介 (About)
 
-**Hue.AI** 是一個結合設計美感與 AI 運算的智慧配色工具。
+**Mood Palette** 是一個結合設計美感與 AI 運算的智慧配色工具。
 
 我們發現許多人在創作時常面臨「選色障礙」。雖然市面上已有強大的配色網站（如 Coolors），但它們多依賴隨機生成，難以直觀地根據創作者腦中的「氛圍（Vibe）」來尋找顏色。
 
-Hue.AI 不做隨機亂數，而是透過 **AI 美感篩選**，讓使用者僅需選擇風格關鍵字（如 `Retro`, `Cyberpunk`, `Pastel`），即可獲得一組協調、具備故事性的色彩組合。
+Mood Palette 不做隨機亂數，而是透過 **AI 美感篩選**，讓使用者僅需選擇風格關鍵字（如 `Retro`, `Cyberpunk`, `Pastel`），即可獲得一組協調、具備故事性的色彩組合。
 
 ---
 
