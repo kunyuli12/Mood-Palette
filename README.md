@@ -1,4 +1,4 @@
-# 🎨 Hue.AI —— 智慧風格配色靈感庫
+# 🎨 Mood Palette
 
 > **Curated Colors for Your Next Masterpiece.**
 > Vibe Coding 期末專題作品
