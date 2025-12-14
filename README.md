@@ -3,7 +3,7 @@
 > **Curated Colors for Your Next Masterpiece.**
 > Vibe Coding 期末專題作品
 
-(https://drive.google.com/file/d/1MbOlJXWpcF0uzFQ43G4_hDZgVdEngBmI/view?usp=sharing)
+![image](https://drive.google.com/file/d/1MbOlJXWpcF0uzFQ43G4_hDZgVdEngBmI/view?usp=sharing)
 
 ## 📖 專案簡介 (About)
 
